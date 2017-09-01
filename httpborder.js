@@ -15,8 +15,8 @@
     btnimg.style.position = "fixed";
     btnimg.style.left = '0' ;
     btnimg.style.top = '0' ;
-    btnimg.style.width= "30px";
-    btnimg.style.height= "30px";
+    btnimg.style.width= "25px";
+    btnimg.style.height= "25px";
     btnimg.style.color= "transparent";
     btnimg.style.backgroundImage= "url(https://i.imgur.com/em0YF0W.png)";
     btnimg.appendChild(btn);                                
