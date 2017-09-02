@@ -1,4 +1,4 @@
-# http-border v1.0
+# http-border v1.1
 
 A simple, lightweight extension that adds a noticeable top border when the website doesn't have a https protocol. 
 
