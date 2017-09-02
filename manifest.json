@@ -3,7 +3,7 @@
   "description": "Adds a visible top border to any websites without HTTPS. You can close it by pressing the close button.",
   "manifest_version": 2,
   "name": "HTTP Border",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/FrancoBarppG/http-border",
   "icons": {
     "48": "images/icons/icon-48.png",
