@@ -7,7 +7,7 @@
     div.style.left = '0' ;
     div.style.top = '0' ;
     div.style.background = "transparent";
-    div.style.backgroundImage="url(https://i.imgur.com/c8F8mo7.png)";
+    div.style.backgroundImage="images/pagewarning.png";
     document.body.appendChild(div);
     
     var btn = document.createElement("button");
@@ -18,7 +18,7 @@
     btnimg.style.width= "25px";
     btnimg.style.height= "25px";
     btnimg.style.color= "transparent";
-    btnimg.style.backgroundImage= "url(https://i.imgur.com/em0YF0W.png)";
+    btnimg.style.backgroundImage= "images/closebutton.png";
     btnimg.appendChild(btn);                                
     document.body.appendChild(btnimg);
     btn.style.width= "inherit";

@@ -6,14 +6,13 @@
   "version": "1.0",
   "homepage_url": "https://github.com/FrancoBarppG/http-border",
   "icons": {
-    "48": "icons/icon-48.png",
-    "96": "icons/icon-96.png"
+    "48": "images/icons/icon-48.png",
+    "96": "images/icons/icon-96.png"
   },
 
   "content_scripts": [
     {
-      "matches": ["*://*/*"],
-      "exclude_matches": ["https://*/*"],
+      "matches": ["http://*/*"],
       "js": ["httpborder.js"]
     }
   ]
